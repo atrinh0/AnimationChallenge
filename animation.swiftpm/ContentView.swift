@@ -96,7 +96,6 @@ struct AnimatedImage: View {
             self.showTimer.upstream.connect().cancel()
             DispatchQueue.main.asyncAfter(deadline: .now() + 3) {
                 opacity = 0
-                scale = 0.1
             }
         }
     }
