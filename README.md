@@ -4,6 +4,8 @@ https://developer.apple.com/news/?id=ycmer78i
 
 ### Result
 
+<img src="images/animation.gif">
+
 https://user-images.githubusercontent.com/16542463/172951425-60b29eff-8ada-401e-a3e8-24a15aed87b6.mp4
 
 ### Reference
